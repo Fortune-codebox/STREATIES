@@ -1,0 +1,9 @@
+# Git
+.git
+.gitignore
+
+#Docker
+.docker
+
+node_modules
+frontend

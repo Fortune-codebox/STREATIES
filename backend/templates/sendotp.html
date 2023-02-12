@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Verification email</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #dcdcdc;
+        }
+        .centered-div {
+            height: 200px;
+            width: 100%;
+            margin: auto;
+            padding: 8px;
+        }
+
+        .otp-div{
+            width: 80%;
+            margin: auto;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(206, 123, 15);
+            color: white;
+            font-weight: bolder;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="centered-div">
+        <h1>Streaties.co OTP Verification Code</h1>
+
+        <p>Your otp verification code/One Time Password: {{otp}}</p>
+
+        <div class="otp-div">
+            {{otp}}
+        </div>
+        
+
+        <p>
+            If you have not requested this email, then ignore it.
+        </p>
+
+    </div>
+</body>
+</html>

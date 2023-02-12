@@ -1,0 +1,66 @@
+[
+  {
+      "name" : "CHARMOUNT Full Motion TV Wall Mount Swivel",
+      "price" : "26.99 ",
+      "description" : "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+      "ratings" : 3.5,
+      "images" : [{
+          "public_id" : "products/chairmount_nuubea",
+          "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg"
+      }],
+      "category" : "Cuisine",
+      "subCategory": "Continental Dishes",
+      "seller" : "Amazon",
+      "stock" : 1,
+      "numOfReviews" : 12,
+      "reviews": []
+  },
+  {
+      "name" : "Apple AirPods with Charging Case (Wired)",
+      "price" : "126.99 ",
+      "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+      "ratings" : 4.8,
+      "images" : [{
+          "public_id" : "products/airpords_e5cqqr",
+          "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+      }],
+      "category" : "Cuisine",
+      "subCategory": "Grills",
+      "seller" : "Amazon",
+      "stock" : 122,
+      "numOfReviews" : 2671,
+      "reviews": []
+  },
+  {
+      "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+      "price" : "27.99",
+      "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+      "ratings" : 4.1,
+      "images" : [{
+          "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+          "url" : "https://res.cloudinary.com/bookit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
+      }],
+      "category" : "Pastry",
+      "subCategory": "Cakes",
+      "seller" : "Amazon",
+      "stock" : 1123,
+      "numOfReviews" : 6,
+      "reviews": []
+  },
+  {
+      "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+      "price" : "496.95",
+      "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+      "ratings" : 4.7,
+      "images" : [{
+          "public_id" : "products/camera_ridc0i",
+          "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
+      }],
+      "category" : "Pastry",
+      "subCategory": "Pies",
+      "seller" : "Amazon",
+      "stock" : 131,
+      "numOfReviews" : 222,
+      "reviews": []
+  }
+]

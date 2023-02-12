@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Thomas payne",
+    "email": "testing5@example.com",
+    "password": "test123",
+    "avatar": {
+        "public_id": "123",
+        "url": "http://example1.com/tg.jpg"
+    }
+  },
+  {
+    "name": "Mary Jane",
+    "email": "test3@example.com",
+    "password": "test103",
+    "avatar": {
+        "public_id": "738",
+        "url": "http://example2.com/tg.jpg"
+    }
+  },
+  {
+    "name": "Mary tom",
+    "email": "test4@example.com",
+    "password": "test103",
+    "avatar": {
+        "public_id": "133",
+        "url": "http://example.com/tg.jpg"
+    }
+  }
+]

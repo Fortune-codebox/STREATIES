@@ -1,0 +1,23 @@
+.productDiv {
+    border-radius: 40px;
+    background: #ffffff;
+    border: none !important;
+    /* box-shadow:   */
+    box-shadow: inset -19px -19px 38px #dcdcdc,
+                inset 19px 19px 38px #ffffff,
+                20px 20px 60px #bebebe,
+                -20px -20px 60px #ffffff;
+
+}
+
+
+
+.card-text{
+ font-size: 13px;
+}
+
+
+
+.card-title{
+    font-size: 13px;
+}
